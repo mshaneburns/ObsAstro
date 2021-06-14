@@ -1,4 +1,4 @@
-This website and the associated GitHub repository holds example code, and tutorials to accompany *A Practical Guide to Observational Astronomy*. All of the example code is written using they Python programming language. You will need to know a little about programing in Python to understand the tutorials. Check out the [Resources page](resources.md) for links to online Python tutorials. 
+This website and the associated GitHub repository holds example code, tutorials, and data to accompany *A Practical Guide to Observational Astronomy* by M. Shane Burns. All of the example code is written using they Python programming language. You will need to know a little about programing in Python to understand the tutorials. Check out the [Resources page](resources.md) for links to online Python tutorials. 
 
 ## Ways to use this website
 ### Clone the GitHub repository
