@@ -1,6 +1,6 @@
 This website and the associated GitHub repository holds example code, tutorials, and data to accompany *A Practical Guide to Observational Astronomy* by M. Shane Burns. All of the example code is written using they Python programming language. You will need to know a little about programing in Python to understand the tutorials. Check out the [Resources page](resources.md) for links to online Python tutorials. 
 
-## Ways to use this website
+## How to use this website
 ### Clone the GitHub repository
 The easiest way to access all of the information on this site is to click the **View on GitHub** link in the blue tab above and clone the repository to your own computer. You will need to have Python installed on your computer to use the tutorials. I strongly suggest the Anaconda Python 3 distribution. All of the code was written and tested using the Anaconda distribution. You can install the  open-source [Anaconda Individual Edition](https://www.anaconda.com/products/individual) for free.
 
@@ -10,7 +10,7 @@ If you already have Python installed and you don't want the entire GitHub reposi
 - [Images](images.zip)
 - [Sample Data](data.zip)
 
-You will have to download the Jupyter Notebook tutorials individually, by from the [GitHub repository](https://github.com/mshaneburns/ObsAstro). 
+You will have to download the Jupyter Notebook tutorials individually from the [GitHub repository](https://github.com/mshaneburns/ObsAstro). 
 
 ### Run the tutorials without installing Python
 If you don't have Python installed on your computer you can still access the  tutorials and run the sample code from your browser by using [Binder](https://mybinder.readthedocs.io/en/latest/). Just click the button below to get started.
