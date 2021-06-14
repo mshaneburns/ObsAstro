@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: Companion Website for *A Practical Guide to Observational Astronomy* 
+description:  by [M. Shane Burns](https://faculty1.coloradocollege.edu/~sburns/)
+show_downloads: false
+theme: jekyll-theme-slate
