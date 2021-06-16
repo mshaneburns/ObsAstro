@@ -15,6 +15,6 @@ You will have to download the Jupyter Notebook tutorials individually from the [
 ### Run the tutorials without installing Python
 If you don't have Python installed on your computer you can still access the  tutorials and run the sample code from your browser by using [Binder](https://mybinder.readthedocs.io/en/latest/). Just click the button below to get started.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mshaneburns/test-repo/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mshaneburns/ObsAstro/HEAD)
 
 Be patient it may take a few minutes for the Jupyter Notebook to launch in your browser. Once it has launched, you see a listing of all the files in the repository. The Jupyter Notebook tutorials end with the extension `.ipynb`. Just click on the file name to start the tutorial. 
