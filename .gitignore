@@ -3,4 +3,4 @@
 
 # Jupyter notebooks sometimes create example image files. I don't want git to see them
 # so I name them ./images/*example.fits and ignore them.
-./images/*example.fits
+images/*example.fits
