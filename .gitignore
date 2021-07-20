@@ -1,6 +1,8 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Jupyter notebooks sometimes create example image files. I don't want git to see them
-# so I name them ./images/*example.fits and ignore them.
+# Jupyter notebooks sometimes create example files. I don't want git to 
+# see them so I name them with 'example' in the file name and ignore them.
 images/*example.fits
+data/*example.png
+code/*example.png

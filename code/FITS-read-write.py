@@ -1,5 +1,5 @@
 """
-Read and write FITS files
+Read and write FITS files.
 
 This script illustrates: 
     - how to read and write FITS files
