@@ -13,7 +13,7 @@ If you already have Python installed and you don't want the entire GitHub reposi
 You will have to download the Jupyter Notebook tutorials individually from the [GitHub repository](https://github.com/mshaneburns/ObsAstro). 
 
 ### Run the tutorials without installing Python
-If you don't have Python installed on your computer you can still access the  tutorials and run the sample code from your browser by using [Binder](https://mybinder.readthedocs.io/en/latest/). Just click the button below to get started.
+If you don't have Python installed on your computer, you can still access the  tutorials and run the sample code from your browser by using [Binder](https://mybinder.readthedocs.io/en/latest/). Just click the button below to get started.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mshaneburns/ObsAstro/HEAD)
 
