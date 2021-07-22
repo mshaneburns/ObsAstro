@@ -2,7 +2,7 @@ This website and the associated GitHub repository holds example code, tutorials,
 
 ## How to use this website
 ### Clone the GitHub repository
-The easiest way to access all of the information on this site is to click the **View on GitHub** link in the blue tab above and clone the repository to your own computer. You will need to have Python installed on your computer to use the tutorials. I strongly suggest the Anaconda Python 3 distribution. All of the code was written and tested using the Anaconda distribution. You can install the  open-source [Anaconda Individual Edition](https://www.anaconda.com/products/individual) for free.
+If you have Python installed on your computer, the easiest way to access all of the information on this site is to click the **View on GitHub** link in the blue tab above and clone the repository to your own computer. I strongly suggest the Anaconda Python 3 distribution. All of the code was written and tested using the Anaconda distribution. You can install the  open-source [Anaconda Individual Edition](https://www.anaconda.com/products/individual) for free.
 
 ### Download only the files you need
 If you already have Python installed and you don't want the entire GitHub repository you can use the links below to download ZIP files containing the example code, images, and sample data.
