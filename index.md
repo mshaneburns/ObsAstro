@@ -1,4 +1,4 @@
-**Home |** [Resources](resources.md)
+Home | [Resources](resources.md)
 
 ------
 

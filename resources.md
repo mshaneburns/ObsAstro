@@ -1,4 +1,4 @@
-[Home](index.md) **| Resources**
+[Home](index.md) | Resources
 
 ------
 
