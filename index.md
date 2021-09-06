@@ -1,6 +1,7 @@
 Home | [Resources](resources.md)
 
 ------
+[![DOI](https://zenodo.org/badge/239636289.svg)](https://zenodo.org/badge/latestdoi/239636289)
 
 This website and the associated GitHub repository holds example code, tutorials, and data to accompany [*A Practical Guide to Observational Astronomy*](https://www.routledge.com/A-Practical-Guide-to-Observational-Astronomy/Burns/p/book/9780367768638) by [M. Shane Burns](https://faculty1.coloradocollege.edu/~sburns/). All of the example code is written using the Python programming language. You will need to know a little about programing in Python to understand the tutorials. Check out the [Resources page](resources.md) for links to online Python tutorials. 
 
