@@ -10,3 +10,6 @@ code/*example.*
 *example.dat
 *example.fits
 *example.png
+
+# Mac only files
+.DS_Store
